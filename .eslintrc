@@ -23,7 +23,6 @@
     "react/jsx-filename-extension": 0,
     "max-len": 0,
     "arrow-body-style" : "warn",
-    "indent": ["error", 4, {"SwitchCase":1}],
     "space-before-blocks": ["error", { "functions": "never", "keywords": "always", "classes": "never" }],
     "react/prop-types": [0],
     "react/display-name":[0],
